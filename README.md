@@ -15,17 +15,24 @@ contribute via a Pull Request with any suggestions and include the following:
 
 ## Analytics & Forensics Tools
 - [Breadcrumbs](https://www.breadcrumbs.app/)
+- [BscScan](https://bscscan.com/)
 - [Chainalysis](https://www.chainalysis.com/)
+- [Dune](https://dune.xyz)
 - [Etherscan](https://etherscan.io/)
 - [MistTrack](https://misttrack.io/)
+- [Officer CIA's On-Chain Investigation Tools List](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List)
+- [PolygonScan](https://polygonscan.com/)
 
-## Anti-virus
+## Antivirus
 - [Bitdefender](https://www.bitdefender.com/)
 - [Kaspersky](https://usa.kaspersky.com/)
 - [MalwareBytes](https://www.malwarebytes.com/)
 
 ## APIs
+- [Alchemy](https://www.alchemy.com/)
+- [Forta](https://forta.org/)
 - [GoPlus](https://gopluslabs.io/)
+- [Tenderly](https://tenderly.co/)
 
 ## Approval Checkers
 - [Approvals.xyz](https://approvals.xyz)
@@ -60,6 +67,7 @@ contribute via a Pull Request with any suggestions and include the following:
 - [0xFantasy](https://twitter.com/0xFantasy)
 - [0xOhm](https://twitter.com/TheMindOfOhm)
 - [0xQuit](https://twitter.com/0xQuit)
+- [1c4m3by](https://twitter.com/1c4m3by)
 - [BlockChainNinja](https://twitter.com/YouMakinMeCrzy)
 - [CryptoShields](https://twitter.com/cryptoShields)
 - Foobar - [[Twitter](https://twitter.com/0xfoobar) / [Blog](https://0xfoobar.substack.com/)] 

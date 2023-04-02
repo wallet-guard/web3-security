@@ -4,8 +4,6 @@ We built this repo to ensure that everyone has access to security resources.
 Web3 security is not a sexy topic, but it is essential to have a solid understanding of the basics. 
 Hackers have stolen billions from users with countless damage to web3's reputation in the last several years. This is our contribution to solving that.
 
-All URLs have been audited and verified by our team to be the official link.
-
 ## Contributing
 Web3 security is a large field, and we may have missed valuable resources. We are happy to accept suggestions. Please
 contribute via a Pull Request with any suggestions and include the following:
@@ -22,64 +20,70 @@ contribute via a Pull Request with any suggestions and include the following:
 - [MistTrack](https://misttrack.io/)
 
 ## Anti-virus
+- [Bitdefender](https://www.bitdefender.com/)
+- [Kaspersky](https://usa.kaspersky.com/)
 - [MalwareBytes](https://www.malwarebytes.com/)
 
 ## APIs
 - [GoPlus](https://gopluslabs.io/)
 
 ## Approval Checkers
-- [Revoke.cash](https://revoke.cash)
 - [Approvals.xyz](https://approvals.xyz)
+- [Revoke.cash](https://revoke.cash)
 
 ## Blogs
-- [Ledger Academy](https://www.ledger.com/academy)
-- [OfficerCIA](https://officercia.mirror.xyz/)
-- [Harry Denley (whg.eth)](https://harrydenley.com/)
 - [BoringSecurity](https://twitter.com/BoringSecDAO)
-- [WiiMee](https://twitter.com/Wii_Mee)
+- [Ledger Academy](https://www.ledger.com/academy)
 - [SlowMist](https://slowmist.medium.com/)
-- [Foobar](https://twitter.com/0xfoobar)
-- [0xQuit](https://twitter.com/0xQuit)
-- [CryptoShields](https://twitter.com/cryptoShields)
+- [Wallet Guard Academy](https://walletguard.com/academy)
 
 ## Discord Security
 - [Jon_HQ](https://jonhq.com/)
-- [Server Forge](https://twitter.com/Server_Forge)
 - [Good Knight Bot](https://twitter.com/goodknightbot)
+- [Server Forge](https://twitter.com/Server_Forge)
 
 ## Guides
 - [A Complete Cryptocurrency Security Guide](https://medium.com/@koroushak94/a-complete-cryptocurrency-security-guide-e2b3725e2bab) by KoroushAK
-- [Securing Discord Admins](https://jonhq.com/securing-discord-admins/) by Jon HQ
 - [A Developer's guide to the web3 security stack](https://www.coinbase.com/blog/a-developers-guide-to-the-web3-security-stack) by Coinbase
- 
+- [Securing Discord Admins](https://jonhq.com/securing-discord-admins/) by Jon HQ
+
 ## Hardware Wallets
 - [Ledger](https://www.ledger.com/)
-- [Trezor](https://trezor.io/)
 - [OneKey](https://www.onekey.so/)
+- [Trezor](https://trezor.io/)
 
 ## Password Managers
-- [KeypassXC](https://keepassxc.org/)
 - [Bitwarden](https://bitwarden.com/)
+- [KeypassXC](https://keepassxc.org/)
+
+## Security Researchers & Investigators
+- [0xFantasy](https://twitter.com/0xFantasy)
+- [0xOhm](https://twitter.com/TheMindOfOhm)
+- [0xQuit](https://twitter.com/0xQuit)
+- [BlockChainNinja](https://twitter.com/YouMakinMeCrzy)
+- [CryptoShields](https://twitter.com/cryptoShields)
+- Foobar - [[Twitter](https://twitter.com/0xfoobar) / [Blog](https://0xfoobar.substack.com/)] 
+- Harry Denley - [[Twitter](https://twitter.com/sniko_) / [Blog](https://harrydenley.com/)] 
+- [iamdeadlyz](https://twitter.com/Iamdeadlyz)
+- [Nass](https://twitter.com/nassyweazy)
+- OfficerCIA - [[Twitter](https://twitter.com/officer_cia) / [Blog](https://officercia.mirror.xyz/)
+- Samczsun - [[Twitter](https://twitter.com/samczsun) / [Blog](https://samczsun.com/)]
+- [Serpent](https://twitter.com/Serpent)
+- [WiiMee](https://twitter.com/Wii_Mee)
+- [ZachXBT](https://twitter.com/zachxbt)
 
 ## Security Tooling
-- [Wallet Guard](https://walletguard.app)
+- [Blowfish](https://blowfish.xyz/)
 - [JoinFire](https://www.joinfire.xyz/)
-- [Pocket Universe](https://www.pocketuniverse.app/)
-- [Stelo](https://stelolabs.com/)
-- [Revoke.cash (extension)](https://revoke.cash/extension)
 - [Harpie](https://harpie.io)
 - [Interlock](https://www.interlock.network/)
-- [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)
-- [Blowfish](https://blowfish.xyz/)
+- [Pocket Universe](https://www.pocketuniverse.app/)
+- [Revoke.cash (extension)](https://revoke.cash/extension)
 - [RugPullFinder](https://www.rugpullfinder.io/)
+- [Stelo](https://stelolabs.com/)
+- [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)
+- [Wallet Guard](https://walletguard.app)
 - [Webacy](https://www.webacy.com/)
-
-## Security Researchers / Investigators
-- [ZachXBT](https://twitter.com/zachxbt)
-- [0xFantasy](https://twitter.com/0xFantasy)
-- [iamdeadlyz](https://twitter.com/Iamdeadlyz)
-- [Samczsun](https://twitter.com/samczsun)
-- [Harry Denley](https://twitter.com/sniko_)
 
 ## VPNs
 - [TorGuard](https://torguard.net/)

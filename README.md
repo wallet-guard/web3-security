@@ -4,8 +4,6 @@ We built this repo to ensure that everyone has access to security resources.
 Web3 security is not a sexy topic, but it is essential to have a solid understanding of the basics. 
 Hackers have stolen billions from users with countless damage to web3's reputation in the last several years. This is our contribution to solving that.
 
-All URLs have been audited and verified by our team to be the official link.
-
 ## Contributing
 Web3 security is a large field, and we may have missed valuable resources. We are happy to accept suggestions. Please
 contribute via a Pull Request with any suggestions and include the following:
@@ -22,6 +20,8 @@ contribute via a Pull Request with any suggestions and include the following:
 - [MistTrack](https://misttrack.io/)
 
 ## Anti-virus
+- [Bitdefender](https://www.bitdefender.com/)
+- [Kaspersky](https://usa.kaspersky.com/)
 - [MalwareBytes](https://www.malwarebytes.com/)
 
 ## APIs
@@ -32,14 +32,10 @@ contribute via a Pull Request with any suggestions and include the following:
 - [Revoke.cash](https://revoke.cash)
 
 ## Blogs
-- [0xQuit](https://twitter.com/0xQuit)
 - [BoringSecurity](https://twitter.com/BoringSecDAO)
-- [Foobar](https://twitter.com/0xfoobar)
-- [Harry Denley (whg.eth)](https://harrydenley.com/)
 - [Ledger Academy](https://www.ledger.com/academy)
-- [OfficerCIA](https://officercia.mirror.xyz/)
 - [SlowMist](https://slowmist.medium.com/)
-- [WiiMee](https://twitter.com/Wii_Mee)
+- [Wallet Guard Academy](https://walletguard.com/academy)
 
 ## Discord Security
 - [Jon_HQ](https://jonhq.com/)
@@ -60,6 +56,22 @@ contribute via a Pull Request with any suggestions and include the following:
 - [Bitwarden](https://bitwarden.com/)
 - [KeypassXC](https://keepassxc.org/)
 
+## Security Researchers & Investigators
+- [0xFantasy](https://twitter.com/0xFantasy)
+- [0xOhm](https://twitter.com/TheMindOfOhm)
+- [0xQuit](https://twitter.com/0xQuit)
+- [BlockChainNinja](https://twitter.com/YouMakinMeCrzy)
+- [CryptoShields](https://twitter.com/cryptoShields)
+- Foobar - [[Twitter](https://twitter.com/0xfoobar) / [Blog](https://0xfoobar.substack.com/)] 
+- Harry Denley - [[Twitter](https://twitter.com/sniko_) / [Blog](https://harrydenley.com/)] 
+- [iamdeadlyz](https://twitter.com/Iamdeadlyz)
+- [Nass](https://twitter.com/nassyweazy)
+- OfficerCIA - [[Twitter](https://twitter.com/officer_cia) / [Blog](https://officercia.mirror.xyz/)
+- Samczsun - [[Twitter](https://twitter.com/samczsun) / [Blog](https://samczsun.com/)]
+- [Serpent](https://twitter.com/Serpent)
+- [WiiMee](https://twitter.com/Wii_Mee)
+- [ZachXBT](https://twitter.com/zachxbt)
+
 ## Security Tooling
 - [Blowfish](https://blowfish.xyz/)
 - [JoinFire](https://www.joinfire.xyz/)
@@ -72,14 +84,6 @@ contribute via a Pull Request with any suggestions and include the following:
 - [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)
 - [Wallet Guard](https://walletguard.app)
 - [Webacy](https://www.webacy.com/)
-
-## Security Researchers / Investigators
-- [0xFantasy](https://twitter.com/0xFantasy)
-- [CryptoShields](https://twitter.com/cryptoShields)
-- [Harry Denley](https://twitter.com/sniko_)
-- [iamdeadlyz](https://twitter.com/Iamdeadlyz)
-- [Samczsun](https://twitter.com/samczsun)
-- [ZachXBT](https://twitter.com/zachxbt)
 
 ## VPNs
 - [TorGuard](https://torguard.net/)

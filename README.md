@@ -2,7 +2,7 @@
 
 We built this repo to ensure that everyone has access to security resources.
 Web3 security is not a sexy topic, but it is essential to have a solid understanding of the basics.
-Hackers have stolen billions from users with countless damage to web3's reputation in the last several years. This is our contribution to solving that.
+Hackers have stolen billions from users with countless damage to web3's reputation in the last several years. This is our contribution to better education.
 
 ## Contributing
 

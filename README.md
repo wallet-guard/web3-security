@@ -50,13 +50,20 @@ contribute via a Pull Request with any suggestions and include the following:
 - [BoringSecurity](https://twitter.com/BoringSecDAO)
 - [Ledger Academy](https://www.ledger.com/academy)
 - [SlowMist](https://slowmist.medium.com/)
-- [Wallet Guard Academy](https://walletguard.com/academy)
 
 ## Discord Security
 
-- [Jon_HQ](https://jonhq.com/)
 - [Good Knight Bot](https://twitter.com/goodknightbot)
+- [Hashbot](https://www.hashbot.io/)
+- [Jon_HQ](https://jonhq.com/)
 - [Server Forge](https://twitter.com/Server_Forge)
+- [Vulcan](https://www.vulcan.xyz/)
+- [Wick](https://wickbot.com/)
+
+## Education
+
+- [Ledger Academy](https://ledger.com/academy)
+- [Wallet Guard Academy](https://walletguard.app/academy)
 
 ## Guides
 

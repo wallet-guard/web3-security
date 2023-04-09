@@ -23,6 +23,7 @@ contribute via a Pull Request with any suggestions and include the following:
 - [Dune](https://dune.xyz)
 - [Etherscan](https://etherscan.io/)
 - [MistTrack](https://misttrack.io/)
+- [Metasleuth](https://metasleuth.io/)
 - [Officer CIA's On-Chain Investigation Tools List](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List)
 - [PolygonScan](https://polygonscan.com/)
 
@@ -65,8 +66,8 @@ contribute via a Pull Request with any suggestions and include the following:
 
 ## Hardware Wallets
 
+- [Gridlock](https://gridlock.network/)
 - [Ledger](https://www.ledger.com/)
-- [OneKey](https://www.onekey.so/)
 - [Trezor](https://trezor.io/)
 
 ## Password Managers
@@ -87,7 +88,7 @@ contribute via a Pull Request with any suggestions and include the following:
 - Harry Denley - [[Twitter](https://twitter.com/sniko_) / [Blog](https://harrydenley.com/)]
 - [iamdeadlyz](https://twitter.com/Iamdeadlyz)
 - [Nass](https://twitter.com/nassyweazy)
-- OfficerCIA - [[Twitter](https://twitter.com/officer_cia) / [Blog](https://officercia.mirror.xyz/)
+- OfficerCIA - [[Twitter](https://twitter.com/officer_cia) / [Blog](https://officercia.mirror.xyz/)]
 - Samczsun - [[Twitter](https://twitter.com/samczsun) / [Blog](https://samczsun.com/)]
 - [Serpent](https://twitter.com/Serpent)
 - [WiiMee](https://twitter.com/Wii_Mee)
@@ -110,6 +111,8 @@ contribute via a Pull Request with any suggestions and include the following:
 ## VPNs
 
 - [TorGuard](https://torguard.net/)
+- [Mullvad](https://mullvad.net/)
+- [ProtonVPN](https://protonvpn.com/)
 
 ## Yearly Reports
 

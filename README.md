@@ -110,7 +110,6 @@ contribute via a Pull Request with any suggestions and include the following:
 - [Pocket Universe](https://www.pocketuniverse.app/)
 - [Revoke.cash (extension)](https://revoke.cash/extension)
 - [RugPullFinder](https://www.rugpullfinder.io/)
-- [Stelo](https://stelolabs.com/)
 - [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)
 - [Wallet Guard](https://walletguard.app)
 - [Webacy](https://www.webacy.com/)

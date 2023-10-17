@@ -43,6 +43,7 @@ contribute via a Pull Request with any suggestions and include the following:
 ## Approval Checkers
 
 - [Revoke.cash](https://revoke.cash)
+- [Wallet Guard](https://dashboard.walletguard.app)
 
 ## Blogs
 

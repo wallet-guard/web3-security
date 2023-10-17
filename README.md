@@ -42,7 +42,6 @@ contribute via a Pull Request with any suggestions and include the following:
 
 ## Approval Checkers
 
-- [Approvals.xyz](https://approvals.xyz)
 - [Revoke.cash](https://revoke.cash)
 
 ## Blogs

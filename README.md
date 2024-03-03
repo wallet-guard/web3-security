@@ -21,6 +21,7 @@ contribute via a Pull Request with any suggestions and include the following:
 - [BscScan](https://bscscan.com/)
 - [Chainalysis](https://www.chainalysis.com/)
 - [Dune](https://dune.xyz)
+- [Covalent](https://covalenthq.com/)
 - [Etherscan](https://etherscan.io/)
 - [MistTrack](https://misttrack.io/)
 - [Metasleuth](https://metasleuth.io/)

@@ -104,6 +104,7 @@ contribute via a Pull Request with any suggestions and include the following:
 ## Security Tooling
 
 - [Blowfish](https://blowfish.xyz/)
+- [EVM Transaction Risk Decoder](https://gpt55.558686.xyz/x402/evm-transaction-risk-decoder) - x402 paid pre-signing calldata decoder for risky approvals, permits, operator approvals, transfers, and multicall hints without private keys or transaction broadcast.
 - [JoinFire](https://www.joinfire.xyz/)
 - [Harpie](https://harpie.io)
 - [Interlock](https://www.interlock.network/)

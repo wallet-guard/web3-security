@@ -26,6 +26,7 @@ contribute via a Pull Request with any suggestions and include the following:
 - [Metasleuth](https://metasleuth.io/)
 - [Officer CIA's On-Chain Investigation Tools List](https://github.com/OffcierCia/On-Chain-Investigations-Tools-List)
 - [PolygonScan](https://polygonscan.com/)
+- [PublicAML](https://publicaml.org/)
 
 ## Antivirus
 

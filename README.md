@@ -104,6 +104,7 @@ contribute via a Pull Request with any suggestions and include the following:
 ## Security Tooling
 
 - [Blowfish](https://blowfish.xyz/)
+- [CryptoStrapon](https://cryptostrapon.com/) - Free AI-powered crypto scam investigation and detection tool.
 - [JoinFire](https://www.joinfire.xyz/)
 - [Harpie](https://harpie.io)
 - [Interlock](https://www.interlock.network/)

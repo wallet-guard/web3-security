@@ -107,6 +107,7 @@ contribute via a Pull Request with any suggestions and include the following:
 - [JoinFire](https://www.joinfire.xyz/)
 - [Harpie](https://harpie.io)
 - [Interlock](https://www.interlock.network/)
+- [NightFall Crypto Access Exit Check](https://github.com/do2006/nightfall-crypto-access-exit-check)
 - [Pocket Universe](https://www.pocketuniverse.app/)
 - [Revoke.cash (extension)](https://revoke.cash/extension)
 - [RugPullFinder](https://www.rugpullfinder.io/)

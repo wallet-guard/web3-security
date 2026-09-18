@@ -113,6 +113,7 @@ contribute via a Pull Request with any suggestions and include the following:
 - [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en)
 - [Wallet Guard](https://walletguard.app)
 - [Webacy](https://www.webacy.com/)
+- [HostDeFi](https://hostdefi.com/scan) - Free A+–F token-safety scanner across Solana and 7 EVM chains (mint/freeze authority, liquidity depth, holder concentration). Keyless REST API.
 
 ## VPNs
 

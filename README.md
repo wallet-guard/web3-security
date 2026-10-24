@@ -104,6 +104,7 @@ contribute via a Pull Request with any suggestions and include the following:
 ## Security Tooling
 
 - [Blowfish](https://blowfish.xyz/)
+- [BountyGuard](https://github.com/doomsday-network/bounty-guard) - Open-source Web3 & GitHub bounty escrow verifier and honeypot detector with live Proof-of-Reserve auditing.
 - [JoinFire](https://www.joinfire.xyz/)
 - [Harpie](https://harpie.io)
 - [Interlock](https://www.interlock.network/)

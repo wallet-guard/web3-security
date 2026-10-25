@@ -104,6 +104,7 @@ contribute via a Pull Request with any suggestions and include the following:
 ## Security Tooling
 
 - [Blowfish](https://blowfish.xyz/)
+- [DoomPay](https://github.com/doomsday-network/doom-pay) - 2-line Stripe-style non-custodial Web3 checkout widget (`pay.js`) and MCP server for verifying L1 `DOOM` and Base Mainnet `wDOOM` payments.
 - [JoinFire](https://www.joinfire.xyz/)
 - [Harpie](https://harpie.io)
 - [Interlock](https://www.interlock.network/)
